@@ -2,11 +2,6 @@
 
 A demonstration application showcasing Query RAG (Retrieval-Augmented Generation) capabilities with AI-powered SQL query generation. This application allows users to upload CSV files, automatically analyze their contents, and use natural language to query the data through an AI workflow.
 
-You can watch the full video here:
-
-[![Learn about Query RAG](https://img.youtube.com/vi/5LIfSpr3GDM/0.jpg)](https://youtu.be/5LIfSpr3GDM)
-> 🎥 How to build advanced RAG systems with AI-generated SQL
-
 ## Features
 
 - 📤 CSV file upload with drag-and-drop support
@@ -134,11 +129,3 @@ The application uses a sophisticated prompt engineering approach to generate acc
 - PostgreSQL-specific query generation with best practices
 - Multi-step validation to ensure accurate responses
 - Error recovery with context-aware query regeneration
-
-## Contributing
-
-This is a proof of concept and is not intended for production use. This repository is for educational purposes and will not be maintained. Please feel free to fork and maintain your own version!
-
-## License
-
-MIT License - feel free to use this code for your own projects!
